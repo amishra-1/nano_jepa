@@ -33,11 +33,16 @@ Linear lines are boring. We'll add "activation functions" to build real Neural N
 
 ---
 
+### [Chapter 5: The Training Loop](./05_Training_Loop.ipynb) 🔄
+We'll master the standard 5-step recipe used to train almost every deep learning model in existence.
+*   **What you'll learn:** How to structure training/validation loops, monitor loss curves, and avoid common pitfalls.
+*   **Analogy:** Turning your messy experimentation code into a professional, reusable training framework.
+
+---
+
 ## Coming Soon...
 
 We have a full roadmap ahead! Stay tuned for the upcoming chapters where we will put these atoms together to build intelligent systems:
-*   **Chapter 5: The Training Loop** 
-    *   We'll master the standard 5-step recipe used to train almost every deep learning model in existence.
 *   **Chapter 6: Handling Real Data** 
     *   How to feed thousands of images into your model efficiently using `Datasets` and `DataLoaders`.
 *   **Chapter 7: Computer Vision (CNNs)** 
