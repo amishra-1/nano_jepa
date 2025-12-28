@@ -17,6 +17,7 @@ We are building this project in public, releasing "atoms" of knowledge every wee
     *   **Chapter 1:** The Magic of Tensors 
     *   **Chapter 2:** Autograd - The Engine of Learning 
     *   **Chapter 3:** Linear Regression - Your First Model 📉 
+    *   **Chapter 4:** Neural Networks & Non-Linearity 🧠 
 
 ### Coming Soon:
 *   **Prerequisites: The Zero to Hero Roadmap** (Linear Regression, MLPs, CNNs)

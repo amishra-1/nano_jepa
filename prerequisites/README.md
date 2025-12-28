@@ -18,7 +18,6 @@ How do machines "learn"? They use calculus to find the best settings. But don't 
 *   **What you'll learn:** How PyTorch's `autograd` engine automatically calculates gradients (derivatives) for you.
 *   **Analogy:** A magical assistant that follows you around and records every math operation you do, so it can replay it backwards later.
 
----
 
 ### [Chapter 3: Your First Model](./03_Linear_Regression.ipynb) 📉
 We'll build a linear regression model from scratch to predict patterns in data.
@@ -27,11 +26,16 @@ We'll build a linear regression model from scratch to predict patterns in data.
 
 ---
 
+### [Chapter 4: Neural Networks & Non-Linearity](./04_Neural_Networks.ipynb) 🧠
+Linear lines are boring. We'll add "activation functions" to build real Neural Networks (MLPs) that can solve complex problems.
+*   **What you'll learn:** How to stack linear layers with ReLU activation to learn curved functions.
+*   **Analogy:** Building a brain that can "bend" its thinking to fit complex patterns.
+
+---
+
 ## Coming Soon...
 
 We have a full roadmap ahead! Stay tuned for the upcoming chapters where we will put these atoms together to build intelligent systems:
-*   **Chapter 4: Neural Networks & Non-Linearity** 
-    *   Linear lines are boring. We'll add "activation functions" to build real Neural Networks (MLPs) that can solve complex problems.
 *   **Chapter 5: The Training Loop** 
     *   We'll master the standard 5-step recipe used to train almost every deep learning model in existence.
 *   **Chapter 6: Handling Real Data** 
