@@ -20,12 +20,16 @@ How do machines "learn"? They use calculus to find the best settings. But don't 
 
 ---
 
+### [Chapter 3: Your First Model](./03_Linear_Regression.ipynb) 📉
+We'll build a linear regression model from scratch to predict patterns in data.
+*   **What you'll learn:** How to define a model, loss function, and optimizer to fit a line to noisy data.
+*   **Analogy:** Teaching a machine to find the "best fit" trend line, just like you would in Excel but with calculus.
+
+---
+
 ## Coming Soon...
 
 We have a full roadmap ahead! Stay tuned for the upcoming chapters where we will put these atoms together to build intelligent systems:
-
-*   **Chapter 3: Your First Model** 
-    *   We'll build a linear regression model from scratch to predict patterns in data.
 *   **Chapter 4: Neural Networks & Non-Linearity** 
     *   Linear lines are boring. We'll add "activation functions" to build real Neural Networks (MLPs) that can solve complex problems.
 *   **Chapter 5: The Training Loop** 

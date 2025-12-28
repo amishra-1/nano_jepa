@@ -16,6 +16,7 @@ We are building this project in public, releasing "atoms" of knowledge every wee
 *   [**Prerequisites: PyTorch Foundations**](./prerequisites/README.md)
     *   **Chapter 1:** The Magic of Tensors 
     *   **Chapter 2:** Autograd - The Engine of Learning 
+    *   **Chapter 3:** Linear Regression - Your First Model 📉 
 
 ### Coming Soon:
 *   **Prerequisites: The Zero to Hero Roadmap** (Linear Regression, MLPs, CNNs)
