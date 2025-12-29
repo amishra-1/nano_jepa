@@ -40,12 +40,23 @@ We'll master the standard 5-step recipe used to train almost every deep learning
 
 ---
 
-## Coming Soon...
+### [Chapter 6: Datasets & DataLoaders](./06_Datasets_DataLoaders.ipynb) 📦
+Stop hardcoding data! Learn to load thousands of images efficiently using PyTorch's data pipeline.
+*   **What you'll learn:** How to create custom `Dataset` classes, use `DataLoader` for batching and shuffling, and handle real-world data.
+*   **Analogy:** Building a conveyor belt that feeds your model with perfectly prepared batches of data.
 
-We have a full roadmap ahead! Stay tuned for the upcoming chapters where we will put these atoms together to build intelligent systems:
-*   **Chapter 6: Handling Real Data** 
-    *   How to feed thousands of images into your model efficiently using `Datasets` and `DataLoaders`.
-*   **Chapter 7: Computer Vision (CNNs)** 
-    *   We'll teach computers how to "see" using Convolutional Neural Networks.
+---
 
-STAY TUNED! 
+### [Chapter 7: Convolutional Neural Networks (CNNs)](./07_CNNs.ipynb) 👁️
+Standard neural networks are terrible at images. CNNs are the solution! We'll build image classifiers and **visualize what features they learn**.
+*   **What you'll learn:** Convolution layers, pooling, building CNNs from scratch, and seeing what patterns emerge during training.
+*   **Analogy:** Teaching a computer to "see" by learning edge detectors, curves, and complex patterns automatically.
+
+---
+
+## What's Next?
+
+You now have all the PyTorch fundamentals needed to dive into advanced architectures like **I-JEPA**!
+
+**Happy Learning!**
+ 

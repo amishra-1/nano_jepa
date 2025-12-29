@@ -66,5 +66,3 @@ coverage.xml
 # Unreleased Content (Private)
 nanojepa/
 notebooks/
-prerequisites/06_*.ipynb
-prerequisites/07_*.ipynb

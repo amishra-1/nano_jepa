@@ -19,9 +19,10 @@ We are building this project in public, releasing "atoms" of knowledge every wee
     *   **Chapter 3:** Linear Regression - Your First Model 📉 
     *   **Chapter 4:** Neural Networks & Non-Linearity 🧠 
     *   **Chapter 5:** The Training Loop 🔄 
+    *   **Chapter 6:** Datasets & DataLoaders 📦
+    *   **Chapter 7:** Convolutional Neural Networks (CNNs) 👁️
 
 ### Coming Soon:
-*   **Prerequisites: The Zero to Hero Roadmap** (Linear Regression, MLPs, CNNs)
 *   **NanoJEPA Series:**
     1.  **Embeddings**: Mapping images to vector spaces.
     2.  **Masking Strategies**: How to hide parts of an image effectively.
